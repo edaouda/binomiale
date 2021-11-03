@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1627699551 source:c:\users\elpo\documents\tmp\binomiale\main.cpp
-	<iostream>
-	<cstdlib>
-	<time.h>
-	<fstream>
-	<string>
-
